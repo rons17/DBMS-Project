@@ -50,7 +50,7 @@ Each user can update his/her personal details.
 #### Manager details
 #### Latest Guidelines and registration process
 #### Ordering of vaccines based on center requirements
-#### Displaying the nearest inventories - The system will be able to display the inventories details such as inventory name, inventory city, etc. based on their ascending order of distance from the particular administration location, which has requested the vaccine stock.
+#### Displaying the nearest inventories
 #### Slot vaccine quantity updation 
 #### Well-managed Inventory
 ---------------------------------------------------------------------------------------------------
